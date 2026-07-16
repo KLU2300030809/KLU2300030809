@@ -22,23 +22,26 @@ Computer Science & Engineering
 
 ## 💻 Technical Skills
 
+
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js" />
-</p>
+- C++
+- C
+- JavaScript
+- SQL
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+- HTML
+- CSS
+- React.js
+- Node.js
+- Express.js
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+- MongoDB
+- MySQL
 
 ### Core Computer Science
 
@@ -49,9 +52,9 @@ Computer Science & Engineering
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
