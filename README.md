@@ -4,41 +4,41 @@ Computer Science Engineering student at **KL University** with a strong interest
 
 I enjoy solving **Data Structures & Algorithms** problems, learning efficient algorithms, and continuously improving my programming skills through consistent practice on **LeetCode**.
 
-Currently, I am focused on strengthening my understanding of Data Structures & Algorithms and core computer science concepts while preparing for **Software Development Engineer** roles.
+Currently, I am focused on strengthening my understanding of **Data Structures & Algorithms** and core computer science concepts while preparing for **Software Development Engineer** roles.
 
 ---
 
-## Education
+## 🎓 Education
 
-**Bachelor of Technology (B.Tech)**  
-Computer Science & Engineering  
-KL University
+**Bachelor of Technology (B.Tech)**
+
+Computer Science & Engineering
+
+**KL University**
 
 **CGPA:** **9.58 / 10.00**
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
 ### Programming Languages
 
-- C++
-- C
-- JavaScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js" />
+</p>
 
 ### Web Development
 
-- HTML
-- CSS
-- React.js
-- Node.js
-- Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
 ### Databases
 
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Core Computer Science
 
@@ -49,19 +49,19 @@ KL University
 
 ### Tools
 
-- Git
-- GitHub
-- Visual Studio Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
 ### Resume2Portfolio – Smart Career Profile Generator
 
-Resume2Portfolio is a full-stack web application that enables users to create professional resumes and instantly generate portfolio websites from the same information.
+Resume2Portfolio is a full-stack web application that enables users to create professional resumes and automatically generate portfolio websites from the same information.
 
-### Features
+### ✨ Key Features
 
 - Professional Resume Builder
 - Automatic Portfolio Generation
@@ -70,23 +70,23 @@ Resume2Portfolio is a full-stack web application that enables users to create pr
 - Secure User Authentication
 - Responsive User Interface
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- HTML
-- CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js" />
+</p>
 
-### Repository
+### 🔗 Project Repository
 
-https://github.com/KLU2300030809/Resume2Portfolio-Smart-Career-Profile-Generator
+<p>
+<a href="https://github.com/KLU2300030809/Resume2Portfolio-Smart-Career-Profile-Generator">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - AWS Certified Cloud Practitioner
 - Microsoft Azure Fundamentals (AZ-900)
@@ -94,50 +94,44 @@ https://github.com/KLU2300030809/Resume2Portfolio-Smart-Career-Profile-Generator
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Solving Data Structures & Algorithms problems
+- Solving Data Structures & Algorithms Problems
 - Daily LeetCode Practice
 - Strengthening Problem-Solving Skills
 - Preparing for Software Development Engineer Roles
 
 ---
 
-## Coding Profiles
+## 🌐 Coding Profiles
 
-### LeetCode
+<p align="left">
 
-https://leetcode.com/u/klu2300030809/
+<a href="https://leetcode.com/u/klu2300030809/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-### GitHub
+<a href="https://github.com/KLU2300030809">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-https://github.com/KLU2300030809
+<a href="https://www.linkedin.com/in/sai-yasaswi-koka/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### LinkedIn
-
-https://www.linkedin.com/in/sai-yasaswi-koka/
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KLU2300030809&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLU2300030809&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## Profile Summary
+## 📌 Profile Summary
 
 - Computer Science Engineering Student
-- CGPA: 9.58 / 10.00
-- Passionate about Data Structures & Algorithms
+- CGPA: **9.58 / 10.00**
+- Strong Foundation in Data Structures & Algorithms
 - Full-Stack Web Development
 - Consistent LeetCode Problem Solver
 - Aspiring Software Development Engineer
 
 ---
 
-*"Success comes from consistent effort, continuous learning, and a passion for solving meaningful problems."*
+> **"Success is built through consistency, curiosity, and continuous improvement."**
