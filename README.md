@@ -4,7 +4,7 @@ Computer Science Engineering student at **KL University** with a strong interest
 
 I enjoy developing full-stack web applications, exploring core computer science concepts, and improving my problem-solving skills through Data Structures & Algorithms.
 
-I'm currently preparing for **Software Development Engineer (SDE)** roles while continuously learning modern web technologies and software engineering best practices.
+I'm currently preparing for software engineering roles by strengthening my Data Structures & Algorithms, full-stack development, and core computer science fundamentals.
 
 ---
 
