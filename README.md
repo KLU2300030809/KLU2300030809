@@ -2,9 +2,9 @@
 
 Computer Science Engineering student at **KL University** with a strong interest in **Software Development** and **Problem Solving**.
 
-I enjoy solving **Data Structures & Algorithms** problems, learning efficient algorithms, and continuously improving my programming skills through consistent practice on **LeetCode**.
+I enjoy developing full-stack web applications, exploring core computer science concepts, and improving my problem-solving skills through Data Structures & Algorithms.
 
-Currently, I am focused on strengthening my understanding of **Data Structures & Algorithms** and core computer science concepts while preparing for **Software Development Engineer** roles.
+I'm currently preparing for **Software Development Engineer (SDE)** roles while continuously learning modern web technologies and software engineering best practices.
 
 ---
 
@@ -106,7 +106,7 @@ Resume2Portfolio is a full-stack web application that enables users to create pr
 
 ---
 
-## 🌐 Coding Profiles
+## 🌐 Profiles
 
 <p align="left">
 
@@ -126,14 +126,6 @@ Resume2Portfolio is a full-stack web application that enables users to create pr
 
 ---
 
-## 📌 Profile Summary
-
-- Computer Science Engineering Student
-- CGPA: **9.58 / 10.00**
-- Strong Foundation in Data Structures & Algorithms
-- Full-Stack Web Development
-- Consistent LeetCode Problem Solver
-- Aspiring Software Development Engineer
 
 ---
 
