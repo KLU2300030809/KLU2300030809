@@ -1,40 +1,18 @@
-<h1 align="center">Hi, I'm Koka Sai Yasaswi</h1>
+# Hi, I'm Koka Sai Yasaswi
 
-<p align="center">
-Computer Science Engineering Student • Aspiring Software Development Engineer
-</p>
-
-<p align="center">
-  <a href="https://github.com/KLU2300030809">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/klu2300030809/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/sai-yasaswi-koka/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## About Me
-
-I am a Computer Science Engineering student at **KL University** with a strong interest in software development and problem solving.
+Computer Science Engineering student at **KL University** with a strong interest in **Software Development** and **Problem Solving**.
 
 I enjoy solving **Data Structures & Algorithms** problems, learning efficient algorithms, and continuously improving my programming skills through consistent practice on **LeetCode**.
 
-Currently, I am focused on strengthening my understanding of DSA and core computer science concepts while preparing for Software Development Engineer roles.
+Currently, I am focused on strengthening my understanding of Data Structures & Algorithms and core computer science concepts while preparing for **Software Development Engineer** roles.
 
 ---
 
 ## Education
 
-**Bachelor of Technology (B.Tech)**
-
-Computer Science & Engineering
-
-**KL University**
+**Bachelor of Technology (B.Tech)**  
+Computer Science & Engineering  
+KL University
 
 **CGPA:** **9.58 / 10.00**
 
@@ -44,21 +22,23 @@ Computer Science & Engineering
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js" />
-</p>
+- C++
+- C
+- JavaScript
+- SQL
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+- HTML
+- CSS
+- React.js
+- Node.js
+- Express.js
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+- MongoDB
+- MySQL
 
 ### Core Computer Science
 
@@ -69,44 +49,45 @@ Computer Science & Engineering
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
 ## Featured Project
 
-### Resume2Portfolio
+### Resume2Portfolio – Smart Career Profile Generator
 
 Resume2Portfolio is a full-stack web application that enables users to create professional resumes and instantly generate portfolio websites from the same information.
 
-#### Features
+### Features
 
 - Professional Resume Builder
 - Automatic Portfolio Generation
 - Multiple Resume Templates
 - ATS-Friendly Resume Formatting
-- Secure Authentication
+- Secure User Authentication
 - Responsive User Interface
 
-#### Tech Stack
+### Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js" />
-</p>
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- HTML
+- CSS
 
-**Repository**
+### Repository
 
-<a href="https://github.com/KLU2300030809/Resume2Portfolio">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+https://github.com/KLU2300030809/Resume2Portfolio-Smart-Career-Profile-Generator
 
 ---
 
 ## Certifications
 
-- Oracle Cloud Infrastructure AI Foundations Associate
 - AWS Certified Cloud Practitioner
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Azure AI Engineer Associate
@@ -115,62 +96,48 @@ Resume2Portfolio is a full-stack web application that enables users to create pr
 
 ## Current Focus
 
-- Solving Data Structures & Algorithms
+- Solving Data Structures & Algorithms problems
 - Daily LeetCode Practice
-- Improving Problem Solving
+- Strengthening Problem-Solving Skills
 - Preparing for Software Development Engineer Roles
+
+---
+
+## Coding Profiles
+
+### LeetCode
+
+https://leetcode.com/u/klu2300030809/
+
+### GitHub
+
+https://github.com/KLU2300030809
+
+### LinkedIn
+
+https://www.linkedin.com/in/sai-yasaswi-koka/
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KLU2300030809&show_icons=true&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KLU2300030809&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=KLU2300030809&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLU2300030809&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/klu2300030809/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/KLU2300030809">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sai-yasaswi-koka/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLU2300030809&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## Profile Summary
 
-- Computer Science Engineering Student at KL University
-- CGPA: **9.58 / 10**
+- Computer Science Engineering Student
+- CGPA: 9.58 / 10.00
 - Passionate about Data Structures & Algorithms
-- MERN Stack Developer
+- Full-Stack Web Development
 - Consistent LeetCode Problem Solver
 - Aspiring Software Development Engineer
 
 ---
 
-<p align="center">
-<i>"Consistency in learning and problem solving builds better software engineers."</i>
-</p>
+*"Success comes from consistent effort, continuous learning, and a passion for solving meaningful problems."*
