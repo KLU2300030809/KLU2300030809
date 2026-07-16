@@ -1,18 +1,42 @@
-# Koka Sai Yasaswi
+<h1 align="center">Hi, I'm Koka Sai Yasaswi</h1>
 
-Computer Science Engineering student at KL University with a strong interest in Software Development and Problem Solving. I enjoy solving Data Structures and Algorithms problems, learning efficient algorithms, and continuously improving my programming skills through consistent practice on LeetCode.
+<p align="center">
+Computer Science Engineering Student • Aspiring Software Development Engineer
+</p>
 
-I am currently focused on strengthening my understanding of Data Structures & Algorithms and core computer science concepts while preparing for Software Development Engineer roles.
+<p align="center">
+  <a href="https://github.com/KLU2300030809">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/klu2300030809/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-yasaswi-koka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I am a Computer Science Engineering student at **KL University** with a strong interest in software development and problem solving.
+
+I enjoy solving **Data Structures & Algorithms** problems, learning efficient algorithms, and continuously improving my programming skills through consistent practice on **LeetCode**.
+
+Currently, I am focused on strengthening my understanding of DSA and core computer science concepts while preparing for Software Development Engineer roles.
 
 ---
 
 ## Education
 
-**Bachelor of Technology (B.Tech)**  
-Computer Science & Engineering  
-KL University
+**Bachelor of Technology (B.Tech)**
 
-**CGPA:** 9.58 / 10.00
+Computer Science & Engineering
+
+**KL University**
+
+**CGPA:** **9.58 / 10.00**
 
 ---
 
@@ -20,23 +44,21 @@ KL University
 
 ### Programming Languages
 
-- C++
-- C
-- JavaScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js" />
+</p>
 
 ### Web Development
 
-- HTML
-- CSS
-- React.js
-- Node.js
-- Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
 ### Databases
 
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Core Computer Science
 
@@ -47,9 +69,9 @@ KL University
 
 ### Tools
 
-- Git
-- GitHub
-- Visual Studio Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -57,30 +79,28 @@ KL University
 
 ### Resume2Portfolio
 
-Resume2Portfolio is a full-stack web application that enables users to create professional resumes and instantly generate portfolio websites from the same information. The platform provides customizable resume templates, ATS-friendly formatting, secure authentication, and an intuitive user experience.
+Resume2Portfolio is a full-stack web application that enables users to create professional resumes and instantly generate portfolio websites from the same information.
 
-**Key Features**
+#### Features
 
 - Professional Resume Builder
 - Automatic Portfolio Generation
 - Multiple Resume Templates
-- ATS-Friendly Resume Format
-- Secure User Authentication
+- ATS-Friendly Resume Formatting
+- Secure Authentication
 - Responsive User Interface
 
-**Tech Stack**
+#### Tech Stack
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- HTML
-- CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js" />
+</p>
 
 **Repository**
 
-https://github.com/KLU2300030809/Resume2Portfolio
+<a href="https://github.com/KLU2300030809/Resume2Portfolio">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -95,51 +115,62 @@ https://github.com/KLU2300030809/Resume2Portfolio
 
 ## Current Focus
 
-- Solving Data Structures & Algorithms problems
-- Practicing consistently on LeetCode
-- Strengthening problem-solving skills
-- Preparing for Software Development Engineer opportunities
-
----
-
-## Coding Profiles
-
-**LeetCode**
-
-https://leetcode.com/u/klu2300030809/
-
-**GitHub**
-
-https://github.com/KLU2300030809
-
-**LinkedIn**
-
-https://www.linkedin.com/in/sai-yasaswi-koka/
+- Solving Data Structures & Algorithms
+- Daily LeetCode Practice
+- Improving Problem Solving
+- Preparing for Software Development Engineer Roles
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KLU2300030809&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KLU2300030809&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KLU2300030809&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=KLU2300030809&theme=transparent&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLU2300030809&layout=compact&hide_border=true" />
+
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLU2300030809&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/klu2300030809/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/KLU2300030809">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sai-yasaswi-koka/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 ## Profile Summary
 
-- Computer Science Engineering Student
-- CGPA: 9.58 / 10
+- Computer Science Engineering Student at KL University
+- CGPA: **9.58 / 10**
 - Passionate about Data Structures & Algorithms
-- Full-Stack Web Development Enthusiast
+- MERN Stack Developer
 - Consistent LeetCode Problem Solver
 - Aspiring Software Development Engineer
 
 ---
 
-> *"Consistency in learning and problem solving builds better software engineers."*
+<p align="center">
+<i>"Consistency in learning and problem solving builds better software engineers."</i>
+</p>
